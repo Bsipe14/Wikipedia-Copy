@@ -1,3 +1,7 @@
 .toplabel{
   text-align: center;
 }
+
+.col-md-2{
+margin-left: -300px; 
+}
