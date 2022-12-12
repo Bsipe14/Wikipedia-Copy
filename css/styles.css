@@ -3,5 +3,18 @@
 }
 
 .col-md-2{
-margin-left: -300px; 
+margin-left: -200px; 
+}
+
+.green{
+  background-color:lightgreen;
+}
+
+.blue{
+  border: solid lightblue;
+  background-color:lightblue;
+}
+
+.purple{
+  background-color: lavender;
 }
