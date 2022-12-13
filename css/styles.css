@@ -11,10 +11,13 @@ margin-left: -200px;
 }
 
 .blue{
-  border: solid lightblue;
   background-color:lightblue;
 }
 
 .purple{
   background-color: lavender;
+}
+
+.other{
+  background-color: lightgray;
 }
